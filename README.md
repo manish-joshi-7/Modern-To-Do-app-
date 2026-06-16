@@ -8,12 +8,11 @@ A sleek and efficient ToDo application built using Python and CustomTkinter.
 - Add, update, and delete tasks
 - Beautiful CustomTkinter UI
 - Voice command integration
-- Task persistence (optional: file or database)
-- Keyboard and mouse friendly
+- Task persistence (optional: file or database)
 - Dark theme
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python 3**
 - **CustomTkinter**
