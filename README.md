@@ -22,8 +22,7 @@ A sleek and efficient ToDo application built using Python and CustomTkinter.
 
 
 ## Installation
-
-```bash
+
 pip install customtkinter
 pip install speechrecognition
 pip install pyaudio
